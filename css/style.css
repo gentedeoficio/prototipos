@@ -238,3 +238,38 @@ img {
     -webkit-transition: all ease 0.3s;
     -o-transition: all ease 0.3s;
     -ms-transition: all ease 0.3s;
+  }
+.footer h3{
+  text-align: center;
+}
+
+.footer>.footer-01{
+  padding: 20px;
+  background-color: #ddd;
+}
+
+.footer>.footer-03{
+  padding: 20px;
+  background-color: #ddd;
+}
+
+.footer>.footer-02{
+  padding: 20px;
+  background-color: #ccc;
+}
+
+.footer>.footer-04{
+  padding: 20px;
+  background-color: #ccc;
+}
+
+.copyright{
+  background-color: #555;
+  text-align: center;
+  list-style: none outside none;
+
+}
+.copyright li{
+  color: #eee;
+
+}
