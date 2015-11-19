@@ -273,3 +273,13 @@ img {
   color: #eee;
 
 }
+
+.copyright ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.copyright ul li{
+  display: inline;
+}
