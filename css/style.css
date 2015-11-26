@@ -1,3 +1,6 @@
+html{
+  background-color: #F8E400;
+}
 .container {
     margin-top: 10px;
 }
@@ -297,4 +300,34 @@ footer {
 }
 .page-header{
   text-align: center;
+}
+
+.img-responsive{
+   display: inline-block;
+
+ height: auto;
+
+ max-width: 100%;
+}
+.portfolio-item{
+   margin-bottom: 25px;
+}
+
+.container-fluid{
+  background: #F2E300;
+}
+.navegador {
+
+    background: #F2E300;
+
+
+}
+#navbarCollapse{
+ background: #F2E355;
+ border-color: #000;
+}
+
+.navbar-toggle{
+ background: #F2E355;
+ border-color: #000;
 }
